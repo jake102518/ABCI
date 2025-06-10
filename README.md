@@ -15,7 +15,7 @@ This repository will include:
 - Code for the **ABCI models** (Original, Inferred, Filtered) *(To be released)*
 - Code for **testing and benchmarking** other state-of-the-art (SOTA) models *(To be released)*
 - Links to related resources:
-  - [Baseline RAG Paper](https://www.auri.re.kr/publication/view.es?mid=a10312000000&publication_id=2019&nPage=1&publication_type=research&sch_year=&sch_report=&sch_type=K&sch_text=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
+  - [Baseline RAG Paper](https://www.auri.re.kr/publication/view.es?mid=a20504000000&publication_type=eng_research&publication_id=2044)
   - **LIQA Dataset**
     - [Example cases from the LIQA Dataset](http://www.siranews.co.kr/news/articleView.html?idxno=1498)
     - The full dataset is available through the purchase of [KIRA Monthly Magazine Vol.653](https://kiramonthly.com/1737).  
@@ -26,7 +26,7 @@ This repository will include:
 
 ## Timeline & Updates
 
-- 📄 The journal paper is currently **under review**.
+- 📄 The conference paper will be presented at **ISARC 2025**, and the journal paper is currently under review.
 - 🛠️ **Codebase will be publicly available by the end of June**
 
 Stay tuned for updates!
@@ -39,4 +39,4 @@ Stay tuned for updates!
 
 ---
 
-Thank you for your interest! Contributions and feedback are welcome once the code is live.
+Thank you for your interest! Contributions and feedback are welcome once the code is live.)
