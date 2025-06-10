@@ -13,7 +13,7 @@ On 171 challenging legal interpretative question-answering (LIQA) cases, ABCI-Fi
 This repository will include:
 
 - Code for the **ABCI models** (Original, Inferred, Filtered) *(To be released)*
-- Code for **testing and benchmarking** other state-of-the-art (SOTA) models *(To be released)*
+- Code for **testing and benchmarking** other state-of-the-art (SOTA) models (SOTA_comparison.ipynb)
 - Links to related resources:
   - [Baseline RAG Paper](https://www.auri.re.kr/publication/view.es?mid=a20504000000&publication_type=eng_research&publication_id=2044)
   - **LIQA Dataset**
