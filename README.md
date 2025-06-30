@@ -18,8 +18,9 @@ This repository will include:
   - [Baseline RAG Paper](https://www.auri.re.kr/publication/view.es?mid=a20504000000&publication_type=eng_research&publication_id=2044)
   - **LIQA Dataset**
     - [Example cases from the LIQA Dataset](http://www.siranews.co.kr/news/articleView.html?idxno=1498)
-    - The full dataset is available through the purchase of [KIRA Monthly Magazine Vol.653](https://kiramonthly.com/1737).  
-    *Data release is currently under discussion with the copyright holder*
+    - The full dataset is now available in the `Dataset` folder.
+        > **Copyright ©** Korea Institute of Registered Architects (대한건축사협회)  
+        > **Usage**: This dataset is available for **public interest use only**.
   - [BEQA Dataset](https://archi.inup.co.kr/cbt/new_pattern_list.jsp?s_item_id=4&type=1)
 
 ---
