@@ -19,8 +19,8 @@ This repository will include:
   - **LIQA Dataset**
     - [Example cases from the LIQA Dataset](http://www.siranews.co.kr/news/articleView.html?idxno=1498)
     - The full dataset is now available in the `Dataset` folder.
+        <br>**Usage**: This dataset is available for **public interest use only**.  
         > **Copyright ©** Korea Institute of Registered Architects (대한건축사협회)  
-        > **Usage**: This dataset is available for **public interest use only**.
   - [BEQA Dataset](https://archi.inup.co.kr/cbt/new_pattern_list.jsp?s_item_id=4&type=1)
 
 ---
